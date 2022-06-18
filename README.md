@@ -1,6 +1,6 @@
 # imusic
 <img src=Users/macbookpro/Desktop/githubphoto/1.png >
-![Alt text](relative/Users/macbookpro/Desktop/githubphoto/to/1.png?raw=true "Title")
+![Alt text](https://github.com/nikolya0209/imusic/blob/main/1.png)
 
 ## _Приложение по работе с музыкальными файлами_  
     
