@@ -1,6 +1,6 @@
 # imusic
-<img src=Users/macbookpro/Desktop/githubphoto/1.png >
-![Alt text](nikolya0209/imusic/blob/main/1.png)
+
+<a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/73827426/174456193-98a31af9-1120-44c2-9d7c-82eb60677f00.png)" align="left" height="400" width="250" ></a>
 
 ## _Приложение по работе с музыкальными файлами_  
     
