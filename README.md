@@ -9,7 +9,7 @@
     <img align="left" width="200" height="433" src="https://user-images.githubusercontent.com/73827426/174477098-09e92717-22b2-4b11-a88f-edaa8d054de5.png">
 </p>
 
-
+<p>
     
 ### Используемые технологии:  
   
@@ -24,3 +24,4 @@
 - Track Detail Player доступен между всеми экранами приложения  
 - Декодирование приходящего JSON ответа в асинхронном потоке  
 - Применение архитектуры Clean Swift
+</p>
